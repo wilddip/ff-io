@@ -1,24 +1,26 @@
 {
-  "name": "fixedfloat-api",
-  "version": "1.0.1",
-  "description": "Simple API wrapper for fixedfloat.com",
+  "name": "ff-io",
+  "version": "2.0.0",
+  "description": "FixedFloat (ff.io) API wrapper",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wilddip/fixedfloat-api.git"
+    "url": "git+https://github.com/wilddip/ff-io.git"
   },
   "keywords": [
     "fixedfloat",
+    "ff.io",
     "crypto",
     "exchange",
-    "api"
+    "api",
+    "wrapper"
   ],
   "author": "wilddip (https://github.com/wilddip/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wilddip/fixedfloat-api/issues"
+    "url": "https://github.com/wilddip/ff-io/issues"
   },
-  "homepage": "https://github.com/wilddip/fixedfloat-api#readme",
+  "homepage": "https://github.com/wilddip/ff-io#readme",
   "dependencies": {
     "axios": "^0.26.0"
   }
